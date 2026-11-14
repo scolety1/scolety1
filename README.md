@@ -4,6 +4,14 @@ I build developer tools, workflow applications, and data-driven experiments. My 
 
 **[Portfolio & contact](https://spencercolety.com)**
 
+## How I build: foundations, AI and ownership
+
+I learned software development by writing and debugging code directly in my freshman and sophomore coursework. The progression is visible in my [C++ fundamentals archive](https://github.com/scolety1/software-development-fundamentals-spring-2024) and [Java data structures and algorithms archive](https://github.com/scolety1/data-structures-algorithms-spring-2025). Those repositories include starter and course material, so I make specific authorship claims instead of treating every file as independently written work.
+
+Today I use AI assistance because it makes development significantly faster. I define the problem, break the work into tasks, direct the agents, review the changes and verify the behavior. AI can draft and explore; I remain responsible for architecture, source attribution, integration, tests and the decision to accept a change.
+
+When an agent stalls, a file conflicts, a test exposes a false assumption or a workflow drifts, I go back into the code and repair the failure. [Thousand Sunny Fleet](https://github.com/scolety1/orca/blob/tsf/main/tsf/SHOWCASE.md) is the framework I am building around that workflow: progress, evidence, adoption and release are separate so fast AI-assisted work can still be reviewed and recovered.
+
 ## Start with the runnable projects
 
 For a quick technical review, start with **Shopify Catalog QA**, **Route Reader**, or **Maintenance Loop**. Each includes a reproducible local setup, tests, and a short engineering evidence tour. Start with Catalog QA for a business tool, Route Reader for algorithms and evaluation, or Maintenance Loop for lifecycle and recovery behavior.
