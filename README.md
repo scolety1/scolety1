@@ -6,7 +6,7 @@ I build developer tools, workflow applications, and data-driven experiments. My 
 
 ## Start with the runnable projects
 
-For a quick technical review, start with **Shopify Catalog QA**, **Route Reader**, or **Maintenance Loop**. Each includes a reproducible local setup, tests, and an explanation of its limits.
+For a quick technical review, start with **Shopify Catalog QA**, **Route Reader**, or **Maintenance Loop**. Each includes a reproducible local setup, tests, and a short engineering evidence tour. Start with Catalog QA for a business tool, Route Reader for algorithms and evaluation, or Maintenance Loop for lifecycle and recovery behavior.
 
 | Project | Engineering focus | Status |
 | --- | --- | --- |
@@ -31,7 +31,7 @@ The bounded adoption/release examples have been tested; the full provider-backed
 
 [Urban Kitchen Drinks](https://urbankitchenbeverage.com/) is a live restaurant beverage menu with CSV-driven updates and rule-based recommendations. [Source and engineering guide](https://github.com/scolety1/Urban-Kitchen-Wine-List/blob/main/DEVELOPER_GUIDE.md).
 
-My [Java data structures and algorithms archive](https://github.com/scolety1/data-structures-algorithms-spring-2025) provides a smaller reading sample: trees, hashing, graphs, and a documented runnable BST example. Start with [BinarySearchTree.java](https://github.com/scolety1/data-structures-algorithms-spring-2025/blob/main/Jan30_2/src/jam30/BinarySearchTree.java); its individual methods are not yet verified as independently authored. [Decision Labs](https://github.com/scolety1/decision-labs) groups four compact JavaScript decision models. [Information Blackout](https://github.com/scolety1/information-blackout) documents a browser-extension research experiment and its measured limitations.
+My [Java data structures and algorithms archive](https://github.com/scolety1/data-structures-algorithms-spring-2025) provides a smaller reading sample: trees, hashing, graphs, and a documented runnable BST example. Start with [BinarySearchTree.java](https://github.com/scolety1/data-structures-algorithms-spring-2025/blob/main/Jan30_2/src/jam30/BinarySearchTree.java); I independently wrote its [`insert`](https://github.com/scolety1/data-structures-algorithms-spring-2025/blob/main/Jan30_2/src/jam30/BinarySearchTree.java#L19) and [`inOrder`](https://github.com/scolety1/data-structures-algorithms-spring-2025/blob/main/Jan30_2/src/jam30/BinarySearchTree.java#L71) methods (confirmed November 14, 2026). That claim does not extend to the whole archive or its starter material. [Decision Labs](https://github.com/scolety1/decision-labs) groups four compact JavaScript decision models. [Information Blackout](https://github.com/scolety1/information-blackout) documents a browser-extension research experiment and its measured limitations.
 
 ## Reviewing the work
 
