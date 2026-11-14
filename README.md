@@ -1,29 +1,34 @@
 # Spencer Colety
 
-I build practical web applications, explicit workflow models, and experiments with reproducible evaluations. I'm seeking software engineering opportunities.
+I build developer tools, workflow applications, and data-driven experiments. My work focuses on making complex processes understandable: explicit state, traceable decisions, recoverable failures, and reproducible checks.
 
-[Portfolio — spencercolety.com](https://spencercolety.com)
+**[Portfolio & contact](https://spencercolety.com)**
 
-## Start here: Urban Kitchen QR Beverage Menu
+## Featured: Thousand Sunny Fleet
 
-A deployed, CSV-driven wine and whiskey menu for Urban Kitchen in Bozeman, with rule-based recommendations and a staff-friendly update workflow.
+An AI-assisted orchestration overlay on [Orca](https://github.com/stablyai/orca), built around a practical question: how should work from coding agents become an accepted, reviewable change?
 
-**[Open the live menu](https://urbankitchenbeverage.com/) · [Source](https://github.com/scolety1/Urban-Kitchen-Wine-List) · [Engineering guide](https://github.com/scolety1/Urban-Kitchen-Wine-List/blob/main/DEVELOPER_GUIDE.md)**
+TSF separates mission progress, evidence, adoption decisions, and release state. The project-specific work lives on the `tsf/main` branch; upstream Orca supplies the underlying development environment.
 
-Read the [recommendation logic](https://github.com/scolety1/Urban-Kitchen-Wine-List/blob/main/js/recommend.js) and [CSV boundary](https://github.com/scolety1/Urban-Kitchen-Wine-List/blob/main/js/csv.js). The project combines a real guest-facing use case with testable data and UI behavior.
+**[Engineering tour](https://github.com/scolety1/orca/blob/tsf/main/tsf/SHOWCASE.md) · [Overlay source](https://github.com/scolety1/orca/tree/tsf/main/tsf) · [Adoption and release examples](https://github.com/scolety1/orca/blob/tsf/main/tsf/test/adoption-release.test.mjs)**
 
-## Selected engineering work
+## Selected projects
 
-| Project | What to look for |
-| --- | --- |
-| [Shopify Catalog QA](https://github.com/scolety1/shopify-catalog-qa) | Browser-local catalog checks, import provenance, conservative re-audit comparisons, and adversarial fixtures. |
-| [Route Reader](https://github.com/scolety1/route-reader) | Python trajectory clustering, time-dependent route estimates, chronological evaluation, and uncertainty. Synthetic research prototype. |
-| [Maintenance Loop](https://github.com/scolety1/maintenance-loop) | TypeScript lifecycle guards, cycle-scoped evidence, import reconciliation, and recoverable browser persistence. Synthetic workflow demo. |
-| [Java data structures and algorithms](https://github.com/scolety1/data-structures-algorithms-spring-2025) | Explicit representations, recursion, tree traversal, hashing, and graphs. A coursework archive with a runnable Java example and source-credit limitations documented. |
-| [Thousand Sunny Fleet — engineering tour](https://github.com/scolety1/orca/blob/tsf/main/tsf/SHOWCASE.md) | My AI-assisted TSF overlay inside an Orca fork: orchestration integration, adoption checks, and release gates. Start in [tsf/](https://github.com/scolety1/orca/tree/tsf/main/tsf), not the upstream application. |
+| Project | Engineering focus | Status |
+| --- | --- | --- |
+| [Shopify Catalog QA](https://github.com/scolety1/shopify-catalog-qa) | Catalog validation, import provenance, conservative comparisons, and adversarial evaluation | Runnable browser-local application |
+| [Route Reader](https://github.com/scolety1/route-reader) | Trajectory clustering, temporal prediction, uncertainty, and chronological evaluation | Python research prototype with synthetic demo |
+| [Maintenance Loop](https://github.com/scolety1/maintenance-loop) | Lifecycle guards, evidence reconciliation, dependency recovery, and resilient persistence | Runnable synthetic workflow demo |
+| [Oddly Specific](https://github.com/scolety1/weird-talent-marketplace) | Explainable matching, hard constraints, moderation, and abstention | Runnable synthetic marketplace demo |
+| [Snow Jams](https://github.com/scolety1/snow-jams) | Sensor-state inference, hysteresis, deterministic replay, and evaluation | Experimental prototype |
+| [QuoteLoop](https://github.com/scolety1/quoteloop) | Quote follow-up, import reconciliation, and deterministic time-dependent behavior | Runnable synthetic workflow demo |
 
-## How to review this work
+## Deployed work and foundations
 
-The featured repositories explain what works today, where to start reading, and how to run their checks. Recent projects are AI-assisted; provenance documents identify source snapshots and verification limits. Orca's upstream application remains credited to its original contributors. Older coursework contains a mix of assignments, lecture examples, and starter material; I do not claim sole authorship of the entire archives.
+[Urban Kitchen Drinks](https://urbankitchenbeverage.com/) is a live restaurant beverage menu with CSV-driven updates and rule-based recommendations. [Source and engineering guide](https://github.com/scolety1/Urban-Kitchen-Wine-List/blob/main/DEVELOPER_GUIDE.md).
 
-For a small Java reading sample, start with [BinarySearchTree.java](https://github.com/scolety1/data-structures-algorithms-spring-2025/blob/main/Jan30_2/src/jam30/BinarySearchTree.java) and its [runnable demo](https://github.com/scolety1/data-structures-algorithms-spring-2025/blob/main/Jan30_2/src/jam30/BinarySearchTreeDemo.java). File-level independent authorship is not established by the bulk-upload history.
+My [Java data structures and algorithms archive](https://github.com/scolety1/data-structures-algorithms-spring-2025) provides a smaller reading sample: trees, hashing, graphs, and a documented runnable BST example. [Decision Labs](https://github.com/scolety1/decision-labs) groups four compact JavaScript decision models. [Information Blackout](https://github.com/scolety1/information-blackout) documents a browser-extension research experiment and its measured limitations.
+
+## Reviewing the work
+
+Start with each repository's README for current behavior, code entry points, run commands, and verification. Recent projects are developed with AI assistance. Provenance and source credits distinguish my project work from upstream frameworks, starter code, and coursework; the older coursework upload history does not establish independent authorship of every method.
