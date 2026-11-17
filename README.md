@@ -8,9 +8,9 @@ I build games, statistical decision tools and systems for coordinating AI-assist
 
 I study computer science at Montana State University, with an International Business minor and graduation expected in Spring 2027. I learned programming by writing and debugging coursework directly before expanding into AI-assisted development.
 
-**[Explore my selected coursework →](coursework-showcase/)**
+**[Highlighted Hand-Coded Coursework →](coursework-showcase/)**
 
-Start with the [Java actor-network project](coursework-showcase/actor-network/) for graph algorithms, the [Java word game](coursework-showcase/word-game/) for application structure, or the [Python card analyzer](coursework-showcase/card-collection/) for objects and file processing. These are curated projects from 2023–2025, with original code, run instructions and source notes.
+Start with the [Java actor-network project](coursework-showcase/actor-network/) for graph algorithms, the [Java word game](coursework-showcase/word-game/) for application structure, or the [Python card analyzer](coursework-showcase/card-collection/) for objects and file processing. The collection also includes [C++ fundamentals](coursework-showcase/cpp-fundamentals/) and a [plain-Python ASCII translator](coursework-showcase/ascii-translator/). These are curated projects and exercises from 2023–2025, with original code, run instructions and source notes.
 
 The coursework originally lived on my computer before its November 2026 GitHub upload. The dates in the showcase describe the original coursework period, not the upload.
 

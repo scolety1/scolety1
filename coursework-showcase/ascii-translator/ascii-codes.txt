@@ -1,0 +1,96 @@
+Character,Code,Description
+space,32,Space
+!,33,Exclamation mark
+",34,Quotation Mark
+#,35,Number Sign
+$,36,Dollar Sign
+%,37,Percent Sign
+&,38,Ampersand
+',39,Apostrophe
+(,40,Left Parenthesis
+),41,Right Parenthesis
+*,42,Asterisk
++,43,Plus Sign
+comma,44,Comma
+-,45,Hyphen
+.,46,Dot
+/,47,Slash
+0,48,Number Zero
+1,49,Number One
+2,50,Number Two
+3,51,Number Three
+4,52,Number Four
+5,53,Number Five
+6,54,Number Six
+7,55,Number Seven
+8,56,Number Eight
+9,57,Number Nine
+:,58,Colon
+;,59,Semicolon
+<,60,Less-Than Sign
+=,61,Equals Sign
+>,62,Greater-Than Sign
+?,63,Question Mark
+@,64,At Sign
+A,65,Capital A
+B,66,Capital B
+C,67,Capital C
+D,68,Capital D
+E,69,Capital E
+F,70,Capital F
+G,71,Capital G
+H,72,Capital H
+I,73,Capital I
+J,74,Capital J
+K,75,Capital K
+L,76,Capital L
+M,77,Capital M
+N,78,Capital N
+O,79,Capital O
+P,80,Capital P
+Q,81,Capital Q
+R,82,Capital R
+S,83,Capital S
+T,84,Capital T
+U,85,Capital U
+V,86,Capital V
+W,87,Capital W
+X,88,Capital X
+Y,89,Capital Y
+Z,90,Capital Z
+[,91,Left Square Bracket
+\,92,Backslash
+],93,Right Square Bracket
+^,94,Caret
+_,95,Underscore
+`,96,Grave Accent
+a,97,Lowercase A
+b,98,Lowercase B
+c,99,Lowercase C
+d,100,Lowercase D
+e,101,Lowercase E
+f,102,Lowercase F
+g,103,Lowercase G
+h,104,Lowercase H
+i,105,Lowercase I
+j,106,Lowercase J
+k,107,Lowercase K
+l,108,Lowercase L
+m,109,Lowercase M
+n,110,Lowercase N
+o,111,Lowercase O
+p,112,Lowercase P
+q,113,Lowercase Q
+r,114,Lowercase R
+s,115,Lowercase S
+t,116,Lowercase T
+u,117,Lowercase U
+v,118,Lowercase V
+w,119,Lowercase W
+x,120,Lowercase X
+y,121,Lowercase Y
+z,122,Lowercase Z
+{,123,Left Curly Bracket
+|,124,Vertical Bar
+},125,Right Curly Bracket
+~,126,Tilde

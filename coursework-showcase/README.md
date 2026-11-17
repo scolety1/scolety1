@@ -1,7 +1,7 @@
-# Selected Coursework
-### Spencer Colety · Python & Java · 2023–2025
+# Highlighted Hand-Coded Coursework
+### Spencer Colety · C++, Java & Python · 2023–2025
 
-Three projects from my early computer science coursework, when I primarily wrote and debugged code by hand. They show the progression from modeling objects and processing files to interactive applications and graph algorithms.
+Projects and small exercises from my early computer science coursework, when I primarily wrote and debugged code by hand. They show the progression from modeling objects and processing files to interactive applications and graph algorithms.
 
 **[Start with Actor Network →](actor-network/)**
 
@@ -10,6 +10,8 @@ Three projects from my early computer science coursework, when I primarily wrote
 | [Actor Network](actor-network/) | Spring 2025 | Adjacency lists, Dijkstra's algorithm, Kruskal's algorithm and path reconstruction |
 | [Five-Letter Word Game](word-game/) | Fall 2024 | File input, object state, difficulty settings and a console game loop |
 | [Card Collection Analyzer](card-collection/) | November 2023 | Python classes, CSV parsing, text normalization and aggregate calculations |
+| [C++ Fundamentals](cpp-fundamentals/) | Spring 2024 | Vectors, iterators, list operations and file streams |
+| [ASCII Translator](ascii-translator/) | October 2023 | Python dictionaries and text-file processing; no external dependencies |
 
 Each project includes a short code tour, run instructions, and the data needed by its entry point. Start with the project page, then follow its source links.
 
@@ -30,4 +32,4 @@ git clone https://github.com/scolety1/scolety1.git
 cd scolety1/coursework-showcase
 ```
 
-Java projects use JDK 17 or later. The Python project uses Python 3 and NumPy. Commands were checked against the source layout but have not been executed for this extraction; these are preserved coursework examples rather than production releases.
+Java projects use JDK 17 or later. C++ examples use a C++17 compiler. Python examples use Python 3; only the card analyzer requires NumPy. Commands were checked against the source layout but have not been executed for this extraction; these are preserved coursework examples rather than production releases.
