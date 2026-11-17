@@ -4,6 +4,23 @@ I build games, statistical decision tools and systems for coordinating AI-assist
 
 **[Portfolio & contact](https://spencercolety.com/)**
 
+## Computer science foundations
+
+I study computer science at Montana State University, with an International Business minor and graduation expected in Spring 2027. I learned programming by writing and debugging coursework directly before expanding into AI-assisted development.
+
+- [C++ fundamentals](https://github.com/scolety1/software-development-fundamentals-spring-2024): console programs, files, strings and vectors.
+- [Java data structures](https://github.com/scolety1/basic-data-structures-fall-2024): linked lists, queues, recursion and sorting.
+- [Java algorithms](https://github.com/scolety1/data-structures-algorithms-spring-2025): trees, hashing and graphs. In [this binary search tree](https://github.com/scolety1/data-structures-algorithms-spring-2025/blob/main/Jan30_2/src/jam30/BinarySearchTree.java), I implemented insertion and in-order traversal.
+- [Web development](https://github.com/scolety1/web-development-fall-2025): HTML/CSS layouts, JavaScript and responsive pages.
+
+Much of this coursework lived on my computer until it was uploaded together in November 2026. Those upload dates are not the original development dates. The archives retain separate assignments, labs and course examples, with starter code credited where applicable.
+
+## How I build today
+
+My earlier coursework was primarily hand-coded. I gradually began using AI-generated code around late summer 2025 and made coding agents a substantial part of my workflow in spring 2026. The transition was gradual; individual projects have their own contribution notes.
+
+Today I define problems, break work into tasks, direct agents, review changes and verify behavior. My larger projects combine product and engineering decisions with AI-assisted implementation. Upstream frameworks, instructor material and generated code keep their attribution.
+
 ## My main projects
 
 ### [World Forge](https://github.com/scolety1/worldforge-showcase)
@@ -18,7 +35,7 @@ A statistics-driven fantasy football decision system built around my player-rank
 
 I shape the ranking approach, football decision criteria and recommendation explanations, combining my own implementation with AI-assisted development. **Implemented local application, still evolving.** The broader direction is a prioritized action plan for what to do next; historical coverage, predictive gains and individual workflows need their own evidence rather than a blanket accuracy claim.
 
-### [Thousand Sunny Fleet / T.Dot](https://github.com/scolety1/orca/blob/tsf/main/tsf/SHOWCASE.md)
+### [Thousand Sunny Fleet + Dot](https://github.com/scolety1/orca/blob/tsf/main/tsf/SHOWCASE.md)
 
 My system for directing large AI-assisted software projects. I think of it as an **agentic corporation**: a captain coordinates team leads and specialist workers, divides work across parallel teams, reviews results and escalates serious blockers. I use Dot as the conversational interface connected to TSF's backend; sustained overnight and multi-day execution is an ongoing reliability goal, not a promise of unattended success on every project.
 
@@ -33,18 +50,6 @@ My system for directing large AI-assisted software projects. I think of it as an
 [Urban Kitchen Drinks](https://urbankitchenbeverage.com/) is the deployed beverage menu with preference-based wine and whiskey recommendations. I designed the restaurant workflow and directed AI-assisted development. The manager-facing workflow I describe uses familiar Google Sheets/Drive tools; the public repository documents the guest site and CSV publication path, not a public reproduction of private manager access.
 
 [Guest-site source and engineering guide](https://github.com/scolety1/Urban-Kitchen-Wine-List/blob/main/DEVELOPER_GUIDE.md)
-
-## How I build: foundations, AI and ownership
-
-I learned software development by writing and debugging code directly in my freshman and sophomore coursework. The progression is visible in my [C++ fundamentals archive](https://github.com/scolety1/software-development-fundamentals-spring-2024) and [Java data structures and algorithms archive](https://github.com/scolety1/data-structures-algorithms-spring-2025). Those repositories include starter and course material, so I make specific authorship claims instead of treating every file as independently written work.
-
-Today I use AI assistance because it makes development significantly faster. I define the problem, break the work into tasks, direct the agents, review the changes and verify the behavior. AI can draft and explore; I remain responsible for architecture, source attribution, integration, tests and the decision to accept a change.
-
-When an agent stalls, a file conflicts, a test exposes a false assumption or a workflow drifts, I go back into the code and repair the failure. [Thousand Sunny Fleet](https://github.com/scolety1/orca/blob/tsf/main/tsf/SHOWCASE.md) is the framework I am building around that workflow: progress, evidence, adoption and release are separate so fast AI-assisted work can still be reviewed and recovered.
-
-## Independently written code
-
-My [Java data structures and algorithms archive](https://github.com/scolety1/data-structures-algorithms-spring-2025) provides a smaller reading sample: trees, hashing, graphs, and a documented runnable BST example. Start with [BinarySearchTree.java](https://github.com/scolety1/data-structures-algorithms-spring-2025/blob/main/Jan30_2/src/jam30/BinarySearchTree.java); I independently wrote its [`insert`](https://github.com/scolety1/data-structures-algorithms-spring-2025/blob/main/Jan30_2/src/jam30/BinarySearchTree.java#L19) and [`inOrder`](https://github.com/scolety1/data-structures-algorithms-spring-2025/blob/main/Jan30_2/src/jam30/BinarySearchTree.java#L71) methods (confirmed November 14, 2026). That claim does not extend to the whole archive or its starter material. [Decision Labs](https://github.com/scolety1/decision-labs) groups four compact JavaScript decision models. [Information Blackout](https://github.com/scolety1/information-blackout) documents a browser-extension research experiment and its measured limitations.
 
 ## Additional runnable engineering samples
 
