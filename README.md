@@ -8,12 +8,11 @@ I build games, statistical decision tools and systems for coordinating AI-assist
 
 I study computer science at Montana State University, with an International Business minor and graduation expected in Spring 2027. I learned programming by writing and debugging coursework directly before expanding into AI-assisted development.
 
-- [C++ fundamentals](https://github.com/scolety1/software-development-fundamentals-spring-2024): console programs, files, strings and vectors.
-- [Java data structures](https://github.com/scolety1/basic-data-structures-fall-2024): linked lists, queues, recursion and sorting.
-- [Java algorithms](https://github.com/scolety1/data-structures-algorithms-spring-2025): trees, hashing and graphs. In [this binary search tree](https://github.com/scolety1/data-structures-algorithms-spring-2025/blob/main/Jan30_2/src/jam30/BinarySearchTree.java), I implemented insertion and in-order traversal.
-- [Web development](https://github.com/scolety1/web-development-fall-2025): HTML/CSS layouts, JavaScript and responsive pages.
+**[Explore my selected coursework →](coursework-showcase/)**
 
-Much of this coursework lived on my computer until it was uploaded together in November 2026. Those upload dates are not the original development dates. The archives retain separate assignments, labs and course examples, with starter code credited where applicable.
+Start with the [Java actor-network project](coursework-showcase/actor-network/) for graph algorithms, the [Java word game](coursework-showcase/word-game/) for application structure, or the [Python card analyzer](coursework-showcase/card-collection/) for objects and file processing. These are curated projects from 2023–2025, with original code, run instructions and source notes.
+
+The coursework originally lived on my computer before its November 2026 GitHub upload. The dates in the showcase describe the original coursework period, not the upload.
 
 ## How I build today
 
